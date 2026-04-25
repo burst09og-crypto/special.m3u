@@ -359,6 +359,9 @@ http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
 #EXTINF:-1, C268
 http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
 
+#EXTINF:-1, Special 27
+http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
+
 #EXTINF:-1, C270
 http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
 
@@ -403,8 +406,14 @@ http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
 #EXTINF:-1, C29
 http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
 
+#EXTINF:-1, C3 Special
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+
 #EXTINF:-1, C30
 http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+
+#EXTINF:-1, C301 special
+http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 
 #EXTINF:-1, C31
 http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
@@ -436,6 +445,12 @@ http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
 #EXTINF:-1, C41
 http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
 
+#EXTINF:-1, C412 special
+http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
+
+#EXTINF:-1, C413 special
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
+
 #EXTINF:-1, C42
 http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
 
@@ -460,10 +475,24 @@ http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
 #EXTINF:-1, C49
 http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
 
+#EXTINF:-1, C490 Special
+http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
+
+#EXTINF:-1, C5 Special
+http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
+
 #EXTINF:-1, C50
 http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
 
-#EXTINF:-1, C51
+#EXTINF:-1, C512 special
+http://maxotts.maxdigitaltv.com/x-media/C512/master.m3u8
+
+#EXTINF:-1, C513 ASpecial
+http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u
+
+#EXTINF:-1, C514 ASpecial
+http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
+
 http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 
 #EXTINF:-1, C52
@@ -505,11 +534,51 @@ http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 #EXTINF:-1, C65
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 
+#EXTINF:-1, C651 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C651/master.m3u8
+
+#EXTINF:-1, C652 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C652/master.m3u8
+
+#EXTINF:-1, C653 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C653/master.m3u8
+
+#EXTINF:-1, C654 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C654/master.m3u8
+
+#EXTINF:-1, C655 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C655/master.m3u8
+
+#EXTINF:-1, C656 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C656/master.m3u8
+
+
 #EXTINF:-1, C66
 http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
 
+#EXTINF:-1, C665 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C665/master.m3u8
+
+#EXTINF:-1, C667 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C667/master.m3u8
+
+#EXTINF:-1, C668 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C668/master.m3u8
+
+#EXTINF:-1, C669 sepcial
+http://maxotts.maxdigitaltv.com/x-media/C669/master.m3u8
+
 #EXTINF:-1, C67
 http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
+
+#EXTINF:-1, C670 special
+http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
+
+#EXTINF:-1, C671 special
+http://maxotts.maxdigitaltv.com/x-media/C671/master.m3u8
+
+#EXTINF:-1, C707 special
+http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
 
 #EXTINF:-1, C72
 http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
@@ -523,8 +592,16 @@ http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
 #EXTINF:-1, C76
 http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
 
-#EXTINF:-1, C77
+#EXTINF:-1, C772 special
+http://maxotts.maxdigitaltv.com/x-media/C772/master.m3u8
+
+#EXTINF:-1, C776 special
+http://maxotts.maxdigitaltv.com/x-media/C776/master.m3u8
+
+
+
 http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+
 
 #EXTINF:-1, C78
 http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
