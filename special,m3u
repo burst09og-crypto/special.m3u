@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2
+http://server.applelive.in/kalikatv/kalikatv.m3u8
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
