@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2
 http://server.applelive.in/kalikatv/kalikatv.m3u8
 
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2000
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 20000
+http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u8
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 680
+http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
+
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
 
